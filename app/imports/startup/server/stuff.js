@@ -6,8 +6,8 @@ import { Stuff } from '../../api/stuff/stuff.js';
  * @type {*[]}
  */
 const stuffSeeds = [
-  { name: 'Basket', quantity: 3 },
-  { name: 'Bicycle', quantity: 2 },
+  { first: 'Test', last: 'Last Name', address: 'WSU', phone: '123456789', email: 'test@test.com' },
+  { first: 'Test2', last: 'Last Name2', address: 'WSU2', phone: '123456789', email: 'test2@test.com' },
 ];
 
 /**
