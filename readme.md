@@ -26,7 +26,7 @@ Starting the meteor server:
 ```shell
 $ meteor npm run start 
 ```
-Rsetingt Mongo Database 
+Reseting Mongo Database 
 ```shell
 $ meteor reset
 ```
